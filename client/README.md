@@ -26,3 +26,5 @@ Following functionalities are provided
 To modify the configuration of infura project id, please navigate to index.js
 and replace the key at the end of url
 https://rinkeby.infura.io/v3/7596fc2db67e49f2b7c3c70bd6f06dd2
+
+<img width="1786" alt="Screenshot 2021-11-17 at 6 30 34 PM" src="https://user-images.githubusercontent.com/82770637/142199280-9a273104-667e-4c5a-ae32-2280093e9ef5.png">
